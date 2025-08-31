@@ -8,7 +8,7 @@ This project presents an **interactive Job Market Analysis Dashboard** built in 
 
 - Download and open the `.pbix` file in **Power BI Desktop** to explore and customize the report.  
 - Alternatively, view the live interactive report here:  
-👉 [View Live Power BI Report](your-dashboard-link](https://app.powerbi.com/view?r=eyJrIjoiMTk5MTkxOTgtMzYwYy00ODliLWIxYzYtZWQxZDMxMTQ5MTcyIiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D)
+👉 [View Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTk5MTkxOTgtMzYwYy00ODliLWIxYzYtZWQxZDMxMTQ5MTcyIiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D)
 
 ---
 
